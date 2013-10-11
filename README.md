@@ -8,4 +8,4 @@ c/c++, java, C# F#...XML,SQL...HTML JavaScript ruby
 
 Anything ok!
 
-check wiki : 
+check wiki : git@github.com:LilinYume/school.wiki.git
